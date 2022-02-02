@@ -1,1 +1,1 @@
-# fashion-mnist
+# MNIST Classifiers
